@@ -1,0 +1,51 @@
+html, body
+{
+  height: 100%;
+  font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+div
+{
+  font-size: 28px;
+}
+
+header h1
+{
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  padding: 2rem;
+}
+
+.col-sm-12
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+ul
+{
+  list-style-type: none;
+}
+
+ul li
+{
+  padding: 15px 0;
+}
+
+ul a
+{
+  color: inherit;
+}
+
+ul a:hover
+{
+  text-decoration: none;
+}
+
+img
+{
+  width: 75%;
+  height: auto;
+}
